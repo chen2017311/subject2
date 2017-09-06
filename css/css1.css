@@ -1,0 +1,31 @@
+
+/*轮播图样式*/
+*{margin:0;padding:0;/*list-style:none;*/}
+ .wrap{height:167px;width:294px;overflow: hidden;
+ 		position: relative;}
+ .wrap ul{position:absolute;} 
+ .wrap ul li{height:167px;}
+ .wrap ol{position:absolute;right:160px;bottom:10px;}
+ /*.wrap ol li{height:10px; width: 10px;border-radius: 50%;
+ 
+ 			background:#ccc;border:solid 1px #666;
+			 margin-left:5px;color:#000;float:left;line-height:center;
+			 text-align:center;cursor:pointer;}*/
+ .wrap ol .on{background:#E97305;color:#fff;}
+ 
+/*02*/
+*{margin:0;padding:0;/*list-style:none;*/}
+ .ico{height:169px;width:294px;overflow: hidden;
+ 		position: relative;}
+ .ico ul{position:absolute;} 
+ .ico ul li{height:169px;}
+ .ico ol{position:absolute;right:160px;bottom:10px;}
+ /*.wrap ol li{height:10px; width: 10px;border-radius: 50%;
+ 
+ 			background:#ccc;border:solid 1px #666;
+			 margin-left:5px;color:#000;float:left;line-height:center;
+			 text-align:center;cursor:pointer;}*/
+ .ico ol .on1{background:#E97305;color:#fff;}
+
+
+
